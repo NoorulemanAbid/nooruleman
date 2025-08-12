@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Bioinformatics Banner](https://github.com/NoorulemanAbid/nooruleman/blob/main/banner.png)
+![Bioinformatics Banner](https://github.com/NoorulemanAbid/nooruleman/blob/main/Screenshot%202025-08-12%20234248.png)
 
 # Noor Ul Eman
 
@@ -90,6 +90,5 @@ graph LR
 
 ---
 
-```
 
 
