@@ -1,6 +1,6 @@
 <div align="center">
 
-![Bioinformatics Banner](https://github.com/yourusername/yourusername/assets/banner.png)
+![Bioinformatics Banner](https://github.com/NoorulemanAbid/nooruleman/blob/main/banner.png)
 
 # Noor Ul Eman
 
