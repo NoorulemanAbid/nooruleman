@@ -10,6 +10,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/NoorulemanAbid?label=Follow&style=social)](https://github.com/NoorulemanAbid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noor_Ul_Eman-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/noor-ul-eman-abid)
 [![Email](https://img.shields.io/badge/Email-noorulemanabid2003@gmail.com-red?style=flat-square&logo=gmail)](mailto:noorulemanabid2003@gmail.com)
+![Linux](https://img.shields.io/badge/Linux-Expert-orange?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python&logoColor=white)
+![Researcher](https://img.shields.io/badge/Researcher-Evolutionary%20Biology-green?style=for-the-badge&logo=academia&logoColor=white)
+![Plant Genomics](https://img.shields.io/badge/Experience-Plant%20Genomics-brightgreen?style=for-the-badge)
 
 </div>
 
