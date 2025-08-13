@@ -1,15 +1,4 @@
-<div align="center">
 
-<!-- 🌟 Animated Typing Header with Color Variations -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=4D8DF0&center=true&vCenter=true&width=950&height=80&lines=🌟+Noor+ul+Eman;🔬+Bioinformatician+%26+Computational+Biologist;🌱+Plant+Genomics+%26+Evolution+Specialist;💻+Python+%26+Linux+Scripting+Expert;📊+Multi-Omics+Data+Analysis;🧬+Transforming+Genomic+Data+into+Biological+Insights" alt="Animated Header" />
-
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/NoorulemanAbid/NoorulemanAbid/main/assets/github-banner-bioinformatics.png" width="100%" alt="Bioinformatics Banner" />
-
-<!-- Divider -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%">
-
-</div>
 
 <div align="center">
   
